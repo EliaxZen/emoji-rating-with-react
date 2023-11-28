@@ -1,3 +1,6 @@
+##
+🔴 Fiz um sistema de pontuação simples com emojis. Usei React, Next e TypeScript. A nota máxima possivel que pode ser estabelecida é 5, portanto no código faz-se presente um props chamado "nota" que criei para armazenar e calcular a lógica. É possivel perceber que dependendo do valor estipulado, os emojis mudam. Por padrão existem 5 emojis com reações vazias, e conforme a nota aumenta emojis com reações feliz são substituidos pelos emojis com reação vazia; 🔴
+##
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
